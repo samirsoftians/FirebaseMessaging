@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "376032633402",
+    "firebase_url": "https://sell-2549d.firebaseio.com",
+    "project_id": "sell-2549d",
+    "storage_bucket": "sell-2549d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376032633402:android:af540130b6c7180f",
+        "android_client_info": {
+          "package_name": "com.example.twtech.firebasemessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376032633402-8p3jvgcflmtbkgciudqlrb9q3ol3e64e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.twtech.firebasemessaging",
+            "certificate_hash": "ce3f4377d8dcb618c29cd8e728af32df3bbf32d3"
+          }
+        },
+        {
+          "client_id": "376032633402-sll8rsej5cov9h4ttpc47a5r5fqfdlp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVLQNN5xiwJcXD3AGVnsQtGxP5axhK3Xs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376032633402-sll8rsej5cov9h4ttpc47a5r5fqfdlp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
