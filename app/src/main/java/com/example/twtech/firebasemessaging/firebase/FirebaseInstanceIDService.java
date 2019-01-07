@@ -29,7 +29,7 @@ import static android.content.ContentValues.TAG;
 
 public class FirebaseInstanceIDService extends FirebaseInstanceIdService {
     public static SharedPreferences sharedpreferences1;
-
+//*****************************************
     String t;
 
     //*****************************SHARRED PREFERENCES TO STORE DATA****
